@@ -11,28 +11,27 @@ threshold = 10000000.00
 corner_detected = 0
 edge_detected = 0
 
-for name in os.listdir("./images/"):
 
-    input_img = cv2.imread("./images/"+name, 0)
-    
-    cv2.imshow('Input Image', input_img)
-    cv2.waitKey(0)
+input_img = cv2.imread("5.png", 0)
 
-    
-    
-    corner_img = cv2.cvtColor(input_img.copy(), cv2.COLOR_GRAY2RGB)
-    edge_img = cv2.cvtColor(input_img.copy(), cv2.COLOR_GRAY2RGB)
-    
-    offset = int(window_size/2)
-    y_range = input_img.shape[0] - offset
-    x_range = input_img.shape[1] - offset
-    
-    
-    dy, dx = np.gradient(input_img)
+cv2.imshow('Input Image', input_img)
+cv2.waitKey(0)
 
-    Ixx = ndi.gaussian_filter(dx**2, sigma=1)
-    Ixy = ndi.gaussian_filter(dy*dx, sigma=1)
-    Iyy = ndi.gaussian_filter(dy**2, sigma=1)
+
+
+corner_img = cv2.cvtColor(input_img.copy(), cv2.COLOR_GRAY2RGB)
+edge_img = cv2.cvtColor(input_img.copy(), cv2.COLOR_GRAY2RGB)
+
+offset = int(window_size/2)
+y_range = input_img.shape[0] - offset
+x_range = input_img.shape[1] - offset
+
+
+dy, dx = np.gradient(input_img)
+
+Ixx = ndi.gaussian_filter(dx**2, sigma=1)
+Ixy = ndi.gaussian_filter(dy*dx, sigma=1)
+Iyy = ndi.gaussian_filter(dy**2, sigma=1)
 
 
 for y in range(offset, y_range):
