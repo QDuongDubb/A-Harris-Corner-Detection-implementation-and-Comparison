@@ -1,4 +1,4 @@
-# A-Harris-Corner-Detection-implementation-and-Comparison
+# A-Harris-Corner-Detection-implementation
 
 ## Giới thiệu:
 "A combined corner and edge detection" là một bài báo viết bởi Chris Harris và Mike Stephens vào năm 1988. Để giải quyết bài toán sử dụng thị giác máy tính để xác định vật thể trong môi trường ảnh bài toán đã đề xuất công thức 1 công thức giúp vừa tìm được góc và cạnh trong một bước ảnh. 
