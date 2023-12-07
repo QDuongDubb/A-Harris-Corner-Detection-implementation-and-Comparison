@@ -12,7 +12,7 @@ corner_detected = 0
 edge_detected = 0
 
 
-input_img = cv2.imread("5.png", 0)
+input_img = cv2.imread("test_image.png", 0)
 
 cv2.imshow('Input Image', input_img)
 cv2.waitKey(0)
