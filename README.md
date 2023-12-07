@@ -15,5 +15,8 @@ Công thức này được gọi là công thức tìm góc Harris. Đây là th
 
 ## Tài liệu liên quan:
 - Harris, C.; Stephens, M. A combined corner and edge detector. In Proceedings of the Alvey Vision Conference, Manchester, UK, 31 August–2 September 1988; Volume 15, pp. 10–5244. [Google Scholar]
+- Yang Zhang.; Baojiang Zhong. A Benchmark for the Evaluation of Corner Detectors. School of Computer Science and Technology, Soochow University, Suzhou 215006, China.
+- Shi and Tomasi, "Good Features To Track," 9th IEEE Conference on Computer Vision and Pattern Recognition., pp. 593–600, June 1994
+- Haydar A.Kadhima, Waleed A.Araheemah, A Comparative Between Corner-Detectors ( Harris, Shi-Tomasi & FAST ) in Images Noisy Using Non-Local Means Filter
 
 
