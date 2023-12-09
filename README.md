@@ -8,9 +8,9 @@ Công thức này được gọi là công thức tìm góc Harris. Đây là th
 ## Thành viên
 
 - Nguyễn Văn Hải: implement thuật toán Harris, So sánh phần thuật toán Harris, ứng dụng thực tế trong báo cáo, so sánh trường hợp ảnh thường
-- Trần Hữu Đức: implement thuật toán SIFT, So sánh phần thuật toán SIFT, làm PowerPoint, tạo bộ dữ liệu trong báo cáo
-- Phạm Quý Dương: làm PowerPoint, thuyết trình, làm phần giải thích thuật toán báo cáo, 
-- Nguyễn Quang Huy: implement thuật toán Shi-Tomasi, So sánh phần thuật toán Shi-Tomaso
+- Trần Hữu Đức: implement thuật toán SIFT, So sánh phần thuật toán SIFT, làm PowerPoint, tạo bộ dữ liệu trong báo cáo, so sánh trực quan
+- Phạm Quý Dương: làm PowerPoint, thuyết trình, làm phần giải thích thuật toán báo cáo, so sánh trường hợp ảnh gaussian, salt and pepper
+- Nguyễn Quang Huy: implement thuật toán Shi-Tomasi, So sánh phần thuật toán Shi-Tomaso, giải thích thông số so sánh trong báo cáo, so sánh trường hợp ảnh speckle
 
 ## Yêu câù cài đặt:
 
