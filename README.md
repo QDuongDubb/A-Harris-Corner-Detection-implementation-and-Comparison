@@ -3,7 +3,7 @@
 ## Giới thiệu:
 "A combined corner and edge detection" là một bài báo viết bởi Chris Harris và Mike Stephens vào năm 1988. Để giải quyết bài toán sử dụng thị giác máy tính để xác định vật thể trong môi trường ảnh bài toán đã đề xuất công thức 1 công thức giúp vừa tìm được góc và cạnh trong một bước ảnh. 
 
-Công thức này được gọi là công thức tìm góc Harris. Đây là thực nghiệm công thức dưới dạng Code.
+Công thức này được gọi là công thức tìm góc Harris. Đây là thực nghiệm công thức dưới dạng Code. Ngoài ra còn có thực nghiệm code Shi-Tomasi và SIFT làm tiền đề so sánh.
 
 ## Thành viên
 - Phạm Quý Dương (team leader): làm PowerPoint, thuyết trình, làm phần giải thích thuật toán trong  báo cáo
