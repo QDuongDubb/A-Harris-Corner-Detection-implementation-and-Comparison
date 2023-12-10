@@ -10,7 +10,7 @@ Công thức này được gọi là công thức tìm góc Harris. Đây là th
 - Nguyễn Văn Hải: implement thuật toán Harris, So sánh phần thuật toán Harris, ứng dụng thực tế trong báo cáo, so sánh trường hợp ảnh thường
 - Trần Hữu Đức: implement thuật toán SIFT, So sánh phần thuật toán SIFT, làm PowerPoint, tạo bộ dữ liệu trong báo cáo
 - Phạm Quý Dương: làm PowerPoint, thuyết trình, làm phần giải thích thuật toán báo cáo, 
-- Nguyễn Quang Huy: implement thuật toán Shi-Tomasi, So sánh phần thuật toán Shi-Tomaso
+- Nguyễn Quang Huy: implement thuật toán Shi-Tomasi, So sánh phần thuật toán Shi-Tomasi, giải thích thông số đo lường
 
 ## Yêu câù cài đặt:
 
