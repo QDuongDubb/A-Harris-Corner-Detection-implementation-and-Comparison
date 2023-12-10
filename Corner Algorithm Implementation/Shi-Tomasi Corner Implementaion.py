@@ -21,5 +21,5 @@ def shi_tomasi_detect_corner(img_path, maxCornerNB, qualityLevel, minDistance=10
     cv2.imwrite('example_shitomasi.png', img)
     return 'example_shitomasi.png'
 
-img_path = shi_tomasi_detect_corner('Input Image', 300000 , 0.05)
+img_path = shi_tomasi_detect_corner('Input Image', 300000 , 0.1)
 Image(img_path)
