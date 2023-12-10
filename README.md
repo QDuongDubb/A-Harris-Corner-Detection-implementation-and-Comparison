@@ -6,17 +6,18 @@
 Công thức này được gọi là công thức tìm góc Harris. Đây là thực nghiệm công thức dưới dạng Code.
 
 ## Thành viên
+- Phạm Quý Dương (team leader): làm PowerPoint, thuyết trình, làm phần giải thích thuật toán trong  báo cáo
+- Nguyễn Văn Hải: Ứng dụng code thuật toán Harris, ứng dụng bài toán thực tế trong báo cáo
+- Trần Hữu Đức: Ứng dụng code thuật toán SIFT, So sánh phần thuật toán SIFT với thuật toán Harris trong báo cáo, hỗ trợ làm PowerPoint
+- Nguyễn Quang Huy: implement thuật toán Shi-Tomasi, So sánh phần thuật toán Shi-Tomasi với thuật toán SIFT trong báo cáo
 
-- Nguyễn Văn Hải: implement thuật toán Harris, So sánh phần thuật toán Harris, ứng dụng thực tế trong báo cáo, so sánh trường hợp ảnh thường
-- Trần Hữu Đức: implement thuật toán SIFT, So sánh phần thuật toán SIFT, làm PowerPoint, tạo bộ dữ liệu trong báo cáo, so sánh trực quan
-- Phạm Quý Dương: làm PowerPoint, thuyết trình, làm phần giải thích thuật toán báo cáo, so sánh trường hợp ảnh gaussian, salt and pepper
-- Nguyễn Quang Huy: implement thuật toán Shi-Tomasi, So sánh phần thuật toán Shi-Tomaso, giải thích thông số so sánh trong báo cáo, so sánh trường hợp ảnh speckle
-
-## Yêu câù cài đặt:
+## Yêu cầu cài đặt:
 
 - OpenCV > 3.4.0
 - NumPy > 1.12.0
 - SciPy > 0.19.0
+- IPython
+- Matplotlib
  
 
 ## Tài liệu liên quan:
@@ -24,5 +25,5 @@ Công thức này được gọi là công thức tìm góc Harris. Đây là th
 - Yang Zhang.; Baojiang Zhong. A Benchmark for the Evaluation of Corner Detectors. School of Computer Science and Technology, Soochow University, Suzhou 215006, China.
 - Shi and Tomasi, "Good Features To Track," 9th IEEE Conference on Computer Vision and Pattern Recognition., pp. 593–600, June 1994
 - Haydar A.Kadhima, Waleed A.Araheemah, A Comparative Between Corner-Detectors ( Harris, Shi-Tomasi & FAST ) in Images Noisy Using Non-Local Means Filter
-
+- 
 
