@@ -25,5 +25,5 @@ Công thức này được gọi là công thức tìm góc Harris. Đây là th
 - Yang Zhang.; Baojiang Zhong. A Benchmark for the Evaluation of Corner Detectors. School of Computer Science and Technology, Soochow University, Suzhou 215006, China.
 - Shi and Tomasi, "Good Features To Track," 9th IEEE Conference on Computer Vision and Pattern Recognition., pp. 593–600, June 1994
 - Haydar A.Kadhima, Waleed A.Araheemah, A Comparative Between Corner-Detectors ( Harris, Shi-Tomasi & FAST ) in Images Noisy Using Non-Local Means Filter
-- 
+- ASIFT: An Algorithm for Fully Affine Invariant Comparison, Guoshen Yu, Jean-Michel Morel
 
